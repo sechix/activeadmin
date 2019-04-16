@@ -1,6 +1,6 @@
 module ActiveAdmin
   module Dependency
-    DEVISE = '~> 2.2.4'
+    DEVISE = '~> 3.0.0'
 
     # Provides a clean interface to check for gem dependencies at runtime.
     #
